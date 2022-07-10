@@ -10,7 +10,7 @@ public class PrimeiroPrograma {
 
 
 
-        Livro livro = new Livro(nome: "O problema dos 3 copos", numPaginas 300);
+        Livro livro = new Livro(nome: "O problema dos 3 copos", numPaginas: 300);
 
         /* int a = 2;
         int b = 9;
