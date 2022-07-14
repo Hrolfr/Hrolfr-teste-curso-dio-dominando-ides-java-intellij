@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e99197bc-cf5a-43ff-91c9-38759fbb62ca" name="Changes" comment="first commit">
+    <list default="true" id="e99197bc-cf5a-43ff-91c9-38759fbb62ca" name="Changes" comment="ponto no numPaginas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" afterDir="false" />
     </list>
@@ -29,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/sabri/OneDrive/Área de Trabalho/Bootcamp Code Girls/Cursos/Dominando-IDEs-Java/primeiro-projeto-java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sabri/OneDrive/Área de Trabalho/Bootcamp Code Girls/Cursos/Dominando-IDEs-Java/primeiro-projeto-java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PrimeiroPrograma" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.PrimeiroPrograma" />
@@ -82,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657489675494</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="class Livro">
+      <created>1657491407305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657491407305</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ponto no numPaginas">
+      <created>1657491558471</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657491558471</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +113,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello world" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="class Livro" />
+    <MESSAGE value="ponto no numPaginas" />
+    <option name="LAST_COMMIT_MESSAGE" value="ponto no numPaginas" />
   </component>
 </project>
